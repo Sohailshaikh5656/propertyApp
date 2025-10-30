@@ -1,0 +1,35 @@
+body{
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #a1aec4 100%);
+}
+#search{
+  min-width: 250px;
+  width: 600px;
+  min-height: 50px;
+  height: 60px;
+  border-radius: 35px;
+  padding: 20px;
+}
+
+.badge{
+  padding: 8px;
+  cursor: pointer;
+}
+
+.card{
+  cursor: pointer;
+}
+#propertyForm {
+  border-radius: 20px;
+}
+
+#propertyForm input[type='text'], #propertyForm input[type='number'], #propertyForm select{
+  min-height: 35px;
+  height: 50px;
+  border-radius: 30px;
+  border: 1px solid black;
+}
+
+#propertyForm textarea{
+  border-radius: 30px;
+  border: 1px solid black;
+}
