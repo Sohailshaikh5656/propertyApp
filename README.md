@@ -1,7 +1,4 @@
-# Portfolio App - Dron TV Assessment
-
-A modern portfolio application built with cutting-edge technologies that allows users to create, edit, and showcase their professional profiles with multiple template options.
-
+# Property Listing App - Dron TV Assessment
 ## 🛠️ Built With
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
@@ -74,7 +71,9 @@ property-app/
 │   │   └── App.js
 │   ├── package.json
 │   └── README.md
-└── README.md```
+└── README.md
+
+```
 <br />
 ✨ **Features**
 <br />
